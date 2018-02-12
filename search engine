@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>choco Search Engine</title>
+<script>
+  (function() {
+    var cx = '013317210618366211510:6jctqerxsxa';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+
+<link type="text/css" rel="stylesheet" href="style.css" >
+  </head>
+       <body background="SOURCE.jpg"alt="Not_found" >
+          
+		  <div class="main">
+             <!-- background settings-->
+          
+		  <div class="sbar"><h1 align="center" font-style="calibri">choco</h1>
+	         <gcse:search></gcse:search> 
+          
+		  
+        </body>
+</html>
